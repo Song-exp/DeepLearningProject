@@ -1,0 +1,8 @@
+rich
+numpy
+pandas
+matplotlib
+torch
+torchaudio
+torchvision
+tqdm

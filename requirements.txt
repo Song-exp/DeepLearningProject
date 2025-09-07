@@ -1,0 +1,9 @@
+pandas
+numpy
+tqdm
+parmap
+matplotlib
+torch
+rich
+torchvision
+torchaudio
